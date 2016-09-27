@@ -167,11 +167,14 @@ li:hover{
 }
 
 .price{
-  display: none;/* initial state*/
+  display: none;
+  /*initial state*/
   color: #191970;
 }
 
 .price:before{
   content: '$';
 }
+
+
 
